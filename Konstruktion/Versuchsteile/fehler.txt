@@ -1,0 +1,4 @@
+Fehler 1: Distanz der 2 großen Bohrungen um 2mm erhöht
+Fehler 2: 3 verschiedene Schnittfehler
+Fehler 3: Zahn fehlt und eine Bohrung verkleinert
+xFehler 4: Parallelität verloren: innenkontur nicht parallel
